@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e4cPD6eJoUsVw6qLkEXpMkSR7WW/CDj8ZFmNN+tcfUc=",
+  "Source": "JwtMongo",
+  "BasePath": "_content/JwtMongo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
